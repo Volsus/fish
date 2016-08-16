@@ -1,0 +1,7 @@
+.important {
+  color: red;
+}
+ .unimportant {
+   font-style: oblique;
+   color: blue
+ }
